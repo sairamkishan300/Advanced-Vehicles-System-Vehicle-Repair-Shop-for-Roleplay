@@ -2,7 +2,7 @@
 
 **Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
 
-**Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
+**Buy From Gumroad** - https://saimusick.gumroad.com/l/biuiyu
 
 This repository contains **two standalone but compatible MTA:SA resources**:
 
