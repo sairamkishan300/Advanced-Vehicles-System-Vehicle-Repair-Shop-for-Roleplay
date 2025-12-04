@@ -1,5 +1,9 @@
 # Advanced Vehicles System & Vehicle Repair Shop for Roleplay
 
+**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+
+**Buy From Gumroad** - https://saimusick.gumroad.com/l/unyvze
+
 This repository contains **two standalone but compatible MTA:SA resources**:
 
 - **`Vehicles`** – full vehicle ownership system with garage, impound, car shop, speedometer/mechanics, car panel, and vehicle documents.
