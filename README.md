@@ -36,8 +36,7 @@ They are designed to work together in a RolePlay server, but each resource can a
   - On resource start: loads all vehicles from DB and respawns them.
   - On resource stop / player exits vehicle: updates position, fuel, health, damage states, handling, colours, etc.
  <img width="1920" height="1080" alt="document vehicle" src="https://github.com/user-attachments/assets/e7731752-e56d-432f-958c-05071904c240" />
-
-    <img width="1310" height="812" alt="login" src="https://github.com/user-attachments/assets/0a6cc340-380d-4287-b02f-f0604ec8f7f6" />
+<img width="1310" height="812" alt="login" src="https://github.com/user-attachments/assets/0a6cc340-380d-4287-b02f-f0604ec8f7f6" />
 <img width="532" height="352" alt="manufacture_buy parts" src="https://github.com/user-attachments/assets/f0aa01ea-7636-4813-a2a0-1ceed76770d4" />
 <img width="1104" height="720" alt="manufacture_assemble" src="https://github.com/user-attachments/assets/1285b4cb-b7b7-4398-88db-ce60ddb211e3" />
 
