@@ -35,6 +35,11 @@ They are designed to work together in a RolePlay server, but each resource can a
 - **Data persistence**
   - On resource start: loads all vehicles from DB and respawns them.
   - On resource stop / player exits vehicle: updates position, fuel, health, damage states, handling, colours, etc.
+ <img width="1920" height="1080" alt="document vehicle" src="https://github.com/user-attachments/assets/e7731752-e56d-432f-958c-05071904c240" />
+
+    <img width="1310" height="812" alt="login" src="https://github.com/user-attachments/assets/0a6cc340-380d-4287-b02f-f0604ec8f7f6" />
+<img width="532" height="352" alt="manufacture_buy parts" src="https://github.com/user-attachments/assets/f0aa01ea-7636-4813-a2a0-1ceed76770d4" />
+<img width="1104" height="720" alt="manufacture_assemble" src="https://github.com/user-attachments/assets/1285b4cb-b7b7-4398-88db-ce60ddb211e3" />
 
 ### 1.2 Vehicle Repair Shop (`[vehicles]/vehiclerepair`)
 
@@ -61,6 +66,12 @@ They are designed to work together in a RolePlay server, but each resource can a
 - **HTML UI + color picker**
   - Clean browser-based repair UI in `ui/index.html`.
   - Integrated color picker (`colorpicker/`) with live preview.
+<img width="1052" height="706" alt="customs" src="https://github.com/user-attachments/assets/d001d104-8207-4ddb-8692-6b7361bda085" />
+<img width="1298" height="784" alt="carshop" src="https://github.com/user-attachments/assets/9e0ca887-751e-4983-8de6-189a90418342" />
+<img width="1038" height="664" alt="impound garage" src="https://github.com/user-attachments/assets/38b6c39e-c754-42aa-a418-970d87b8eb01" />
+
+<img width="1920" height="1080" alt="cartest" src="https://github.com/user-attachments/assets/849dffeb-0baa-455f-99bd-77122b528e06" />
+<img width="754" height="402" alt="carpanel" src="https://github.com/user-attachments/assets/e5800bd9-f97a-45bc-844b-ff430d2a0ca1" />
 
 ---
 
