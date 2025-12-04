@@ -398,7 +398,5 @@ You do **not** need to manually create tables; the script auto-creates them if m
 
 - **Vehicles Resource**
   - Author: `SaiRamKishan` (see `Vehicles/meta.xml`).
-- **Vehicle Repair Shop**
-  - Author: `Cascade` (see `vehiclerepair/meta.xml`).
 
 You are free to modify configuration, UI and scripts to fit your own server branding and gameplay.
