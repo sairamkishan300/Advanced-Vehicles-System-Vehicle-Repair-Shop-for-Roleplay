@@ -1,0 +1,2 @@
+# Advanced-Vehicles-System-Vehicle-Repair-Shop-for-Roleplay
+This repository contains **two standalone but compatible MTA:SA resources**: - **`Vehicles`** – full vehicle ownership system with garage, impound, car shop, speedometer/mechanics, car panel, and vehicle documents. - **`vehiclerepair`** – mechanic shop with HTML UI for **repairs, upgrades, handling tuning, storage upgrades, paintjobs and colours**.
