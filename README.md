@@ -1,6 +1,6 @@
 # Advanced Vehicles System & Vehicle Repair Shop for Roleplay
 
-**Join our Discord server to Buy this script** - https://discord.gg/C6yGdAEWEa 
+**Join our Discord for more** - https://discord.gg/C6yGdAEWEa 
 
 **Download Free From Gumroad** - https://saimusick.gumroad.com/l/biuiyu
 
